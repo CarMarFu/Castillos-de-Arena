@@ -36,7 +36,7 @@ footer:
 
 # Build settings
 #theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "sunrise"
 locale: "es-ES"
 date_format: "%d-%m-%Y"
@@ -44,6 +44,7 @@ search: true
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
