@@ -1,0 +1,8 @@
+
+main:
+  - title: "Inicio"
+    url: / 
+  - title: "Inscripciones"
+    url: /inscripciones/
+  - title: "Galería"
+    url: /galeria/
