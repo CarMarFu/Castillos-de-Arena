@@ -19,17 +19,29 @@
 # in the templates via {{ site.myvariable }}.
 
 title: II Concurso de Castillos de Arena en favor de ATECE
+masthead_title: "II Concurso de Castillos ATECE"
 email: castillosatece@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
   Página de la segunda edición del concurso de castillos de arena en favor
   de ATECE Gipuzkoa en San Sebastián/Donostia.
+domain: castillosatece.net
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:
+url: "https://castillosatece.net" # the base hostname & protocol for your site, e.g. http://example.com
+repository: "CarMarFu/Castillos-de-Arena"
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/castillosatece/"
 
 # Build settings
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "sunrise"
+locale: "es-ES"
+date_format: "%d-%m-%Y"
+search: true
+
 plugins:
   - jekyll-feed
 
