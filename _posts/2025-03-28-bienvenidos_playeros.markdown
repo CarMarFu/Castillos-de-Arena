@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Calentamos motores para 2025"
 date:   2025-03-28 23:58:03 +0100
 categories: diary
