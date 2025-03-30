@@ -33,6 +33,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/castillosatece/"
+    - label: "ATECE - Gipuzkoa"
+      icon: "fa-solid fa-link"
+      url: "https://www.atecegipuzkoa.org/"
 
 # Build settings
 #theme: minimal-mistakes-jekyll
@@ -41,6 +44,7 @@ minimal_mistakes_skin: "sunrise"
 locale: "es-ES"
 date_format: "%d-%m-%Y"
 search: true
+include: ["_pages"]
 
 plugins:
   - jekyll-feed
