@@ -19,7 +19,7 @@ intro:
   - excerpt: 'Nos llena de emoción daros la bienvenida a la segunda edición del Concurso de Castillos de Arena. A continuación podrás encontrar información referente al evento e imágenes de la edición anterior.'
 
 feature_row:
-    - image_path: /assets/images/gal_a_1.JPG
+    - image_path: /assets/images/gal_b_2.JPG
       alt: "placeholder image 1"
       title: ""
       excerpt: ""
@@ -47,4 +47,3 @@ El evento tendrá lugar el Sábado 10 de Mayo por la mañana.
 Permanece pendiente para más actualizaciones y acceso a las inscripciones.
 
 {% include feature_row %}
-{% include feature_row id="feature_row2" %}
