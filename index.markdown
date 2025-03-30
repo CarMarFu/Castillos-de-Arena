@@ -9,7 +9,9 @@ header:
     overlay_image: /assets/images/banner.JPG
     actions:
         - label: "Ir a inscripciones"
-          url: /inscripciones/
+          url: /inscripciones
+        - label: "Newsletter"
+          url: /404
     caption: ""
 excerpt: "En favor de ATECE Gipuzkoa"
 

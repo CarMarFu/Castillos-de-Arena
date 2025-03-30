@@ -3,8 +3,8 @@ main:
   - title: "Inicio"
     url: / 
   - title: "Inscripciones"
-    url: /inscripciones/
+    url: /inscripciones
   - title: "Galería"
-    url: /galeria/
-  - title: "Quién somos"
-    url: /about/
+    url: /galeria
+  - title: "Quiénes somos"
+    url: /nosotros
