@@ -39,8 +39,33 @@ toc_sticky: true
 # Premios
 Todos los participantes entran a un sorteo de premios que se repartirán al final del evento. También existe la posibilidad de pagar más en la compra de la entrada para entrar en un sorteo exclusivo. Será posible participar en este último sorteo sin necesidad de participar en el torneo.
 
+Sólo por participar los concursantes recibirán una bolsa de regalo con:
+
+* Gorra
+
+* Botella de agua
+
+* Barritas y chocolatinas
+
+
 Los ganadores del concurso recibirán medallas y trofeos como premio.
 
 La siguiente lista recoge los premios disponible actualmente para sorteo. Es posible que conforme pase el tiempo se agregue alguno más.
 
 ## Lista de premios
+
+* 12 x Entradas familiares para el Gipuzkoa Basket Club.
+
+* Curso de navegavela
+
+* Sesión de moto acuática
+
+* Visita a la fábrica de Alzola
+
+* Escapada Zinema7
+
+* Entradas dobles para Hegalak
+
+* 2 x Menús dobles en Ñam 
+
+* Menú para dos persona en Café de La Concha
