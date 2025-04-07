@@ -37,13 +37,15 @@ footer:
       icon: "fa-solid fa-link"
       url: "https://www.atecegipuzkoa.org/"
 
+atom_feed:
+  hide: true
 # Build settings
 #theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "sunrise"
 locale: "es-ES"
 date_format: "%d-%m-%Y"
-search: true
+search: false
 include: ["_pages"]
 
 plugins:
