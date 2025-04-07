@@ -38,6 +38,13 @@ feature_row2:
     - url: /galeria/
       btn_label: "Galería"
       btn_class: "btn--warning"
+
+feature_row_logos:
+    - image_path: /assets/logos/Kaiku transparente (1).png
+    - image_path: /assets/logos/LASER PARKEA LOGO.png
+    - image_path: /assets/logos/Logo CDF 2011 Letras (1).png
+    - image_path: /assets/logos/logo_calidad.jpg
+    - image_path: /assets/logos/logo_ñam.jpg
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -47,3 +54,8 @@ El evento tendrá lugar el Sábado 10 de Mayo por la mañana.
 Permanece pendiente para más actualizaciones y acceso a las inscripciones.
 
 {% include feature_row %}
+
+# Con el apoyo de:
+
+{% include feature_row id="feature_row_logos" %}
+
