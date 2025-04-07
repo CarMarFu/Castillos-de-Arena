@@ -9,7 +9,8 @@ header:
     overlay_image: /assets/images/banner.JPG
     actions:
         - label: "Acceder al formulario"
-          url: /404
+          url: "https://forms.gle/7oid3gLSJ6Y6NXBBA"
+          external: true
     caption: ""
 
 toc: true
@@ -36,20 +37,10 @@ toc_sticky: true
 
 
 # Premios
-Todavía no está la lista definitiva para esta edición. Sin embargo, aquí está la lista de algunos premios que se repartieron en el sorteo el año pasado. 
-
 Todos los participantes entran a un sorteo de premios que se repartirán al final del evento. También existe la posibilidad de pagar más en la compra de la entrada para entrar en un sorteo exclusivo. Será posible participar en este último sorteo sin necesidad de participar en el torneo.
 
 Los ganadores del concurso recibirán medallas y trofeos como premio.
 
-## Edición anterior
-Estos fueron algunos de los premios que se sortearon en la edición anterior. En **negrita** se indica aquello que fue repartido en el sorteo exclusivo.
+La siguiente lista recoge los premios disponible actualmente para sorteo. Es posible que conforme pase el tiempo se agregue alguno más.
 
-* Bonos de 5 entradas para el rocódromo
-* Entradas para GBC (**la mitad se repartieron en el sorteo exclusivo**)
-* Cantimploras y bolsas de la Real Sociedad
-* Juguetes varios (ajedrez, puzles, etc.)
-* **Una noche en Hotel Londres**
-* **Dorsal de la Behobia**
-* **Gafas de sol**
-
+## Lista de premios
