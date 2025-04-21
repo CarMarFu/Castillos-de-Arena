@@ -10,8 +10,6 @@ header:
     actions:
         - label: "Ir a inscripciones"
           url: /inscripciones
-        - label: "Newsletter"
-          url: /404
     caption: ""
 excerpt: "En favor de ATECE Gipuzkoa"
 
@@ -39,12 +37,41 @@ feature_row2:
       btn_label: "Galería"
       btn_class: "btn--warning"
 
-feature_row_logos:
-    - image_path: /assets/logos/Kaiku transparente (1).png
-    - image_path: /assets/logos/LASER PARKEA LOGO.png
-    - image_path: /assets/logos/Logo CDF 2011 Letras (1).png
-    - image_path: /assets/logos/logo_calidad.jpg
-    - image_path: /assets/logos/logo_ñam.jpg
+feature_row_logos_colab:
+    - image_path: /assets/logos/diario_vasco.png
+    - image_path: /assets/logos/kutxa_fundazioa.png
+    - image_path: /assets/logos/cadena_ser.png
+    - image_path: /assets/logos/onda_cero.png
+    - image_path: /assets/logos/afm.png
+    - image_path: /assets/logos/azen.png
+    - image_path: /assets/logos/sade.png
+    - image_path: /assets/logos/gastroleku.png
+
+feature_row_logos_premios:
+    - image_path: /assets/logos/laser_parkea.png
+    - image_path: /assets/logos/real_sociedad.png
+    - image_path: /assets/logos/arzak.png
+    - image_path: /assets/logos/amama.png
+    - image_path: /assets/logos/sirimiri.png
+    - image_path: /assets/logos/gbc.PNG 
+    - image_path: /assets/logos/hegalak.png
+    - image_path: /assets/logos/CaixaBank.png
+    - image_path: /assets/logos/zurriola_surf_eskola.png
+    - image_path: /assets/logos/fortuna.png 
+    - image_path: /assets/logos/behobia.png
+    - image_path: /assets/logos/san_telmo.png 
+    - image_path: /assets/logos/jostamendi.png 
+
+feature_row_logos_welcome:
+    - image_path: /assets/logos/kaiku.png
+    - image_path: /assets/logos/alzola.png
+    - image_path: /assets/logos/bm.png
+
+feature_row_logos_patrocinio:
+    - image_path: /assets/logos/ingenierak.png
+    - image_path: /assets/logos/ceit.png
+    - image_path: /assets/logos/oribay.png
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -55,7 +82,18 @@ Permanece pendiente para más actualizaciones y acceso a las inscripciones.
 
 {% include feature_row %}
 
-# Con el apoyo de:
+# Con el patrocinio de:
 
-{% include feature_row id="feature_row_logos" %}
+{% include feature_row id="feature_row_logos_patrocinio" %}
 
+# Con la colaboración de:
+
+{% include feature_row id="feature_row_logos_colab" %}
+
+## Premios:
+
+{% include feature_row id="feature_row_logos_premios" %}
+
+## Welcome pack:
+
+{% include feature_row id="feature_row_logos_welcome" %}
