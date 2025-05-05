@@ -21,9 +21,9 @@ toc_sticky: true
 
 # Bases del concurso
 
-1. Se celebrará el 10 de Mayo por la mañana (hora exacta por determinar).
+1. Se celebrará el 10 de Mayo por la mañana, de 11:00 a 13:00 finalizando con la entrega de premios.
 
-2. La cantidad de categorías está por determinar (por edades y familias), pero con premios para todas. Los equipos deben estar formados por 4 integrantes.
+2. Los equipos deben estar formados por 4 integrantes. Y participarán en una de las categorías que se pueden ver más abajo.
 
 3. El concurso consistirá en la realización de un castillo, figura o escultura de arena, valiéndose exclusivamente de las manos, palas, cubos y rastrillos.
 
@@ -39,22 +39,15 @@ toc_sticky: true
 
 | Tipo de inscripción | Precio | Incluye |
 |----------------------|-----------------|------------|
-| Niño | 6 € | Sorteo normal |
-| Adulto | 8 € | Sorteo normal |
-| Mejora | + 3 € adicionales | Sorteo premium |
+| Niño | 6 € | Entrada al concurso + Sorteo normal |
+| Adulto | 8 € | Entrada al concurso + Sorteo normal |
+| Solo sorteo | 4 € | Sorteo normal |
 
-También existe la posibilidad de participar en el sorteo sin necesidad de participar en el concurso de castillos. Están son las tarifas:
-
-| Tarifa | Precio | Incluye |
-|----------------------|-----------------|------------|
-| Sorteo normal | 4 € | Sorteo normal |
-| Sorteo premium | 8 € | Sorteo normal + premium |
-
+El pago se podrá realizar el mismo día del evento en la carpa. Se acepta pago con tarjeta.
 
 # Premios
-Todos los participantes entran a un sorteo de premios que se repartirán al final del evento. También existe la posibilidad de pagar más en la compra de la entrada para entrar en un sorteo exclusivo. Será posible participar en este último sorteo sin necesidad de participar en el torneo.
 
-Sólo por participar los concursantes recibirán una bolsa de regalo con:
+Aquellos que participen en el concurso recibirán una bolsa de regalo con:
 
 * Gorra de Caixa
 
@@ -65,11 +58,20 @@ Sólo por participar los concursantes recibirán una bolsa de regalo con:
 * Batidos y cafés para llevar de Kaiku
 
 
-Los ganadores del concurso recibirán medallas y trofeos como premio.
+Los ganadores del concurso recibirán medallas y trofeos como premio según la categoría en la que compitan.
 
-La siguiente lista recoge los premios disponible actualmente para sorteo. Es posible que conforme pase el tiempo se agregue alguno más.
+| Categoría | Temática | Premio |
+|-|-|-|
+| Txiki arquitectos | Menores de 12 años | 50 € a gastar en Donostia Laser Parkea + Copa |
+| Maestro de la arena | Mayores de 12 años | 50 € a gastar en Donostia Laser Parkea + Copa |
+| Castillos de Cine (a cargo de SADE) | Mejor castillo basado en una película | 50 € a gastar en Donostia Laser Parkea + Copa |
+| Amigos de ATECE | Mejor castillo con temática de daño cerebral adquirido | 50 € a gastar en Donostial Laser Parkea + Copa |
 
-## Lista de premios
+## Premios sorteados
+
+Se dividirá el sorteo en categoría para niños (37 regalos a repartir) y para adultos (39 regalos a repartir) según la entrada que se compre.
+
+Estos son algunos de los premios que se sortearán:
 
 * Merchandising de la Real Sociedad
 
