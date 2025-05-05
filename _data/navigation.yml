@@ -6,5 +6,5 @@ main:
     url: /inscripciones
   - title: "Galería"
     url: /galeria
-  - title: "Quiénes somos"
-    url: /nosotros
+ # - title: "Quiénes somos"
+ #   url: /nosotros
